@@ -1,0 +1,32 @@
+
+        *{
+            margin:0;
+            padding:0;
+        }
+         td {
+            height: 50px;
+             width:50px;
+        }
+        .b{
+            width:50px;
+            height:50px;
+                font-size:25;
+        margin:2px;
+        }
+        .v{
+            width:104px;
+            height:50px;
+                font-size:25;
+        margin:2px;
+        }
+        .inp{
+            border-radius: 10px;
+            width:210px;
+            margin: 3px;
+            font-size: 25px;
+            padding:8px;
+        }
+        .bg{
+            background: linear-gradient(to right,#2ec7b9,#007bffb8);
+        }
+    
